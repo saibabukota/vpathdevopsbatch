@@ -10,3 +10,6 @@ gzip $1
 # moving gip file to backup
 echo moving gip file to backup
 mv $1.gz /home/devops/excercise/backup
+   
+
+     my aim in devops
