@@ -9,4 +9,8 @@ echo gipping a file
 gzip $1 
 # moving gip file to backup
 echo moving gip file to backup
+   
+
+ sai.devops
+
 mv $1.gz /home/devops/excercise/backup
