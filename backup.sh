@@ -14,3 +14,6 @@ echo moving gip file to backup
  sai.devops
 
 mv $1.gz /home/devops/excercise/backup
+   
+
+     my aim in devops
